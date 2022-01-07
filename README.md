@@ -25,8 +25,7 @@ https://github.com/eyhoss/LOL_Auto_Login/raw/main/LOL%20LOGIN.zip
 
 2. '설정' 버튼을 눌러 현재 사용하고 있는 해상도와 화면 배율을 선택해 주세요.
 
-![](https://images.velog.io/images/eyhoss/post/590093a2-5f7f-4c9a-9a0b-47d8dd1adc6e/image.png)
-
+![image](https://user-images.githubusercontent.com/88815486/148604978-e978fb5e-5291-4853-9ceb-e6f4de38a0db.png)
 
 3. '아이디 입력' 버튼을 눌러 닉네임, 아이디, 비밀번호를 입력해 주세요.
 
