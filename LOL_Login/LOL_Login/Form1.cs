@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Drawing;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
@@ -115,14 +115,14 @@ namespace LOL_Login
             SendKeys.Send(pw[n]);
 
             if (Properties.Settings.Default.resolution == false)
-                ClickImage("*30 img\\FHD_PW.png");
+                ClickImage("*30 img\\FHD_ID.png");
             else
                 ClickImage("*30 img\\QHD_ID.png");
 
             SendKeys.Send(id[n]);
 
             if (Properties.Settings.Default.resolution == false)
-                ClickImage("*30 img\\FHD_PW.png");
+                ClickImage("*50 img\\FHD_LOGIN.png");
             else
                 ClickImage("*50 img\\QHD_LOGIN.png");
 
