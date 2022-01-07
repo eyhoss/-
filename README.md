@@ -15,6 +15,8 @@ https://github.com/eyhoss/LOL_Auto_Login.git
 
 # 다운로드
 
+https://github.com/eyhoss/LOL_Auto_Login/raw/main/LOL%20LOGIN.zip
+
 ---
 # 사용 방법
 
