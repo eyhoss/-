@@ -8,9 +8,6 @@
 
 아이디를 미리 저장한 후, 간편하게 로그인할 수 있습니다.
 
->모든 소스 코드는 공개되어 있습니다. 
-https://github.com/eyhoss/LOL_Auto_Login.git
-
 ---
 
 # 다운로드
